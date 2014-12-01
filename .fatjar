@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Sep 23 12:51:45 EEST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=SendEmail.jar
+manifest.mergeall=true
+manifest.mainclass=main.SendEmail
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
